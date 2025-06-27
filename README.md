@@ -54,14 +54,15 @@ To create an **affordable, real-time forest monitoring system** that can:
 
 ## 📸 Demo / Circuit (Add Images Here)
 
-> _You can drag & drop a circuit diagram, photo of the prototype, or a short demo video here._
+
+
 
 ---
 
 ## 👨‍💻 Authors
 
 - **Charan Sai Masagani**
-- Team Members: Habib, Charansai
+  
 
 ---
 
