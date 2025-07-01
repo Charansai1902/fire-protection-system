@@ -53,7 +53,7 @@ To create an **affordable, real-time forest monitoring system** that can:
 ---
 
 ## 📸 Demo / Circuit (Add Images Here)
-https://github.com/Charansai1902/fire-protection-system/blob/b7f84caa7cb7e50c61d58c91cc64f18ab529825a/Circuit%20Diagramme.png
+https://github.com/Charansai1902/automatic-wildlife-protection/blob/b7f84caa7cb7e50c61d58c91cc64f18ab529825a/Circuit%20Diagramme.png
 
 
 
